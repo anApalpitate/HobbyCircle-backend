@@ -57,12 +57,13 @@
   },
   "bin": "./bootstrap.js",
   "pkg": {
-    "scripts": "dist/**/*.js"
+    "scripts": "dist/**/*.js",
+    "assets": "image/*"
   },
   "repository": {
     "type": "git",
     "url": ""
   },
-  "author": "anonymous",
+  "author": "Apalpitate",
   "license": "MIT"
 }
