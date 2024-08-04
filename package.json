@@ -1,5 +1,5 @@
 {
-  "name": "my-midway-project",
+  "name": "backend",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -16,7 +16,6 @@
     "@midwayjs/upload": "^3.16.7",
     "@midwayjs/validate": "^3.12.0",
     "@midwayjs/web": "^3.16.6",
-    "@typegoose/typegoose": "^12.6.0",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "jsonwebtoken": "^9.0.2",
